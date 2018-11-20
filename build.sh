@@ -1,0 +1,1 @@
+gcc -nostdlib stubstart.S -o nn src/TinyNN.c
